@@ -1,0 +1,7 @@
+#!/bin/bash
+
+clear
+echo -e "\n\r\n\r\n\r\n\r\n\r"
+neofetch | cat
+echo -e "\n\r\n\r\n\r\n\r\n\r"
+cd /mnt/e/.Classes/Classes/
